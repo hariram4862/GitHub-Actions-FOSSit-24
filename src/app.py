@@ -1,3 +1,1 @@
-print("hello");
-
-jhgjhgjhhjv
+print("hi");
