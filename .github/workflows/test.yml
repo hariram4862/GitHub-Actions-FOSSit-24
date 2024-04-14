@@ -3,7 +3,7 @@ name: Deploy
 on:
   push:
     branches:
-      - main
+      - py
 
 jobs:
   deploy:
@@ -20,4 +20,3 @@ jobs:
 
       - name: Run Code
         run: python src/app.py
-        
